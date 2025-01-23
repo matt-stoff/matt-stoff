@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @matt-stoff
-- 👀 I’m interested in updating this later!
+- Hi, I’m @matt-stoff
+- I am active in communications and pataphysics topics.
 
 <!---
 matt-stoff/matt-stoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
